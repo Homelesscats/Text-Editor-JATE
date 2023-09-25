@@ -73,5 +73,5 @@ Create edit and save text files. offline/online enabled.
 - MDN
 ## Deployed Site 
 -[deployed app](https://secret-scrubland-76377-bb0e72ad3cf2.herokuapp.com/)  
--[GIT](-https://github.com/Homelesscats)  
+-[GIT](https://github.com/Homelesscats)  
 -<gilbertperezdt@gmail.com>  
