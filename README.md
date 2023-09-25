@@ -1,7 +1,14 @@
 # Module 19 Progressive Web Applications Challenge-Text-Editor
 
--[Summary](#summary) -[Resources](#resources) -[User Story](#user-story)
-
+-[Summary](#summary)
+-[Resources](#resources) 
+-[User Story](#user-story)
+-[Acceptance Criteria](#acceptance-criteria)
+-[Installation](#installation)
+-[Usage](#usage)
+-[Technlogies Used](#technologies-used)
+-[Resources](#resources)
+-[Deployed Site](#deployed-site)
 ## Summary
 
 Build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria.  
@@ -64,5 +71,7 @@ Create edit and save text files. offline/online enabled.
 - W3Schools
 - Technologies documentation
 - MDN
-
-<gilbertperezdt@gmail.com>
+## Deployed Site 
+-[deployed app](https://secret-scrubland-76377-bb0e72ad3cf2.herokuapp.com/)  
+-[GIT](-https://github.com/Homelesscats)  
+-<gilbertperezdt@gmail.com>  
