@@ -18,16 +18,18 @@ module.exports = () => {
       path: path.resolve(__dirname, "dist"),
     },
     plugins: [
-      // Webpack plugin that generates an HTML file for your application by injecting automatically all your generated bundles.
+      // Webpack plugin that generates the html file and injects the bundles
       new HtmlWebpackPlugin({
         template: "./index.html",
-        title: "Just Another Text Editor(JATE)",
+        title: "Just Another Text Editor (JATE)",
       }),
+
       // Injects the custom service worker
       new InjectManifest({
         swSrc: "./src-sw.js",
         swDest: "src-sw.js",
       }),
+
       // Creates a manifest.json file.
       new WebpackPwaManifest({
         fingerprints: false,
